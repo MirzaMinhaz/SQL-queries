@@ -1,0 +1,20 @@
+SQL vs NoSQL
+
+**Type- sql databases are called RDBMS where nosql database are called
+non-RDBMS
+** Language- sql is quite complex, extremely powerful and structured.
+nosql is quite simple, non-powerful and unstructured.
+** scalability- sql databases are vertically scalable. you can increase 
+the load of server if you increase things like ram, cpu or ssd.
+
+nosql is horizontally scalable. adding more servers in my database can
+handle more traffic.
+
+it is like sql is adding more floors to the same building vs adding more 
+buildings to the neighbourhood. so nosql databases are more powerful.
+
+**structure- sql databases are table-based where nosql databases
+are either key-value pairs, document-based.
+
+
+
